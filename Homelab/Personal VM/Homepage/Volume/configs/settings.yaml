@@ -1,0 +1,12 @@
+title: Uhhhhh Homepage
+description: The Homepage for the Uhhhhh's HomeLab
+target: _self
+
+theme: dark
+color: green
+background:
+  image: /images/background.jpg
+  blur: md
+favicon: /images/favicon.ico
+
+statusStyle: "dot"

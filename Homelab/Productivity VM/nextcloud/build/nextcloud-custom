@@ -1,0 +1,13 @@
+FROM nextcloud
+
+# import the custom root certificate
+COPY openCA.pem /usr/local/share/ca-certificates/openCA.crt
+RUN update-ca-certificates
+
+#import the custom proxy settings
+COPY proxy.config.php /usr/src/nextcloud/config/proxy.config.php
+
+#import the entrypoint wrapper script, make it executable, and run it
+COPY entrypoint-wrapper.sh /entrypoint-wrapper.sh
+RUN chmod +x /entrypoint-wrapper.sh
+ENTRYPOINT ["/entrypoint-wrapper.sh"]

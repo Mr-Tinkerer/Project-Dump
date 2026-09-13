@@ -1,0 +1,127 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services/
+
+- Hardware:
+    - OpenWrt:
+        href: https://openwrt.uhhhhh/
+        description: The HomeLab's Laptop Router
+        ping: 10.10.0.14
+        icon: /images/icons/openwrt.svg
+        widget:
+          type: openwrt
+          url: https://openwrt.uhhhhh/
+          username: root
+          password:
+          interfaceName: eth0 # optional
+
+
+    - OpenMediaVault:
+        href: https://omv.uhhhhh/
+        description: The HomeLab's NAS
+        ping: 10.10.0.13
+        icon: /images/icons/openmediavault.svg
+        widget:
+          type: openmediavault
+          url: https://omv.uhhhhh/
+          username:
+          password:
+          method: smart.getListBg
+
+    - Proxmox:
+      - PVE:
+          href: https://pve.uhhhhh/
+          description: The HomeLab's Hypervisor
+          ping: 10.10.0.12
+          icon: /images/icons/proxmox.svg
+
+    - VMs:
+      - Monitoring VM:
+          description: VM for Monitoring Other Services
+          ping: 10.10.0.1
+          icon: /images/icons/alma-linux.svg
+          # proxmoxNode: pve
+          # proxmoxVMID: 101
+          # proxmoxType: qemu
+      - Productivity VM:
+          description: VM Being More Productive
+          ping: 10.10.0.2
+          icon: /images/icons/debian-linux.svg
+          # proxmoxNode: pve
+          # proxmoxVMID: 102
+          # proxmoxType: qemu
+      - Personal VM:
+          description: VM for Handling Personal Services
+          ping: 10.10.0.3
+          icon: /images/icons/opensuse.svg
+          # proxmoxNode: pve
+          # proxmoxVMID: 103
+          # proxmoxType: qemu
+      - Arrrrgh VM:
+          description: VM That's for Sailing the Seven Seas
+          ping: 10.10.0.4
+          icon: /images/icons/windows-10.svg
+          # proxmoxNode: pve
+          # proxmoxVMID: 104
+          # proxmoxType: qemu
+      - Local AI VM:
+          description: The VM Where the Local AI Models Will Live at.
+          ping: 10.10.0.5
+          icon: /images/icons/fedora.svg
+          # proxmoxNode: pve
+          # proxmoxVMID: 105
+          # proxmoxType: qemu
+
+
+- Productivity:
+  - Nextcloud:
+      href: https://nextcloud.uhhhhh
+      description: Private Google Suite Alternative
+      ping: 10.10.0.2
+      icon: /images/icons/nextcloud.svg
+      widget:
+        type: nextcloud
+        url: https://nextcloud.uhhhhh
+        key:
+
+  - Stirling:
+      href: https://pdfs.uhhhhh
+      description: Manage & Operates on Single/Multiple PDFs
+      ping: 10.10.0.2
+      icon: /images/icons/stirling-pdf.svg
+
+  - ConvertX:
+      href: https://convertx.uhhhhh
+      description: Privatley Convert Files Formats
+      ping: 10.10.0.2
+      icon: /images/icons/convertx.svg
+
+
+- Personal:
+  - Homepage:
+      href: https://home.uhhhhh
+      description: Homepage for the Uhhhhh's HomeLab
+      ping: 10.10.0.3
+      icon: /images/icons/open-webui.svg
+
+- Local AI:
+  - Open-WebUI:
+      href: https://LLMs.uhhhhh
+      description: WebUI for chatting with Local LLMs
+      ping: 10.10.0.5
+      icon: /images/icons/homepage.svg
+  - SearXNG:
+      href: https://Search.uhhhhh
+      description: Local Web Search Engine
+      ping: 10.10.0.5
+      icon: /images/icons/searxng.svg
+
+- Remote:
+  - Tailscale:
+      href: https://console.tailscale.com/admin/
+      description: Remote VPN Mesh Network
+      icon: /images/icons/tailscale.svg
+      widget:
+        type: tailscale
+        deviceid:
+        key:

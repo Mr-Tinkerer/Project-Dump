@@ -1,0 +1,19 @@
+[Unit]
+Description=Convertx App
+
+[Container]
+ContainerName=convertx
+Network=convertx.network
+PublishPort=3000:3000
+Image=ghcr.io/c4illin/convertx
+Volume=%h/convertx:/configs:Z
+Environment=ACCOUNT_REGISTRATION=false
+Environment=ALLOW_UNAUTHENTICATED=true
+Environment=HTTP_ALLOWED=true
+Environment=AUTO_DELETE_EVERY_N_HOURS=1
+
+[Service]
+Restart=always
+
+[Install]
+WantedBy=default.target

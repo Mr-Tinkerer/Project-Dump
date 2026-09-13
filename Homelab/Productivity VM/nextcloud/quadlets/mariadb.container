@@ -1,0 +1,19 @@
+[Unit]
+Description=Nextcloud MariaDB
+
+[Container]
+Image=docker.io/library/mariadb:11.8
+ContainerName=mariadb
+Network=nextcloud.network
+Exec=--transaction-isolation=READ-COMMITTED
+Environment=MYSQL_ROOT_PASSWORD=***REMOVED***
+Environment=MYSQL_PASSWORD=***REMOVED***
+Environment=MYSQL_DATABASE=nextcloud
+Environment=MYSQL_USER=***REMOVED***
+Volume=%h/nextcloud/db:/var/lib/mysql:Z
+
+[Service]
+Restart=always
+
+[Install]
+WantedBy=default.target

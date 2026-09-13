@@ -1,0 +1,1013 @@
+[2026-08-31T01:25:21.425Z] info: kubernetes.yaml was copied to the config folder
+[2026-08-31T01:25:40.801Z] info: docker.yaml was copied to the config folder
+[2026-08-31T01:25:40.802Z] info: services.yaml was copied to the config folder
+[2026-08-31T01:25:40.803Z] info: bookmarks.yaml was copied to the config folder
+[2026-08-31T01:25:40.803Z] info: widgets.yaml was copied to the config folder
+[2026-08-31T01:25:40.804Z] info: custom.css was copied to the config folder
+[2026-08-31T01:25:40.804Z] info: custom.js was copied to the config folder
+[2026-08-31T01:25:40.857Z] info: proxmox.yaml was copied to the config folder
+[2026-08-31T02:49:48.078Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.087Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.094Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.097Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.099Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.106Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.116Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.118Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.119Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.127Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.129Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.141Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.142Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.301Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.316Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.321Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.327Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.337Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.367Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.370Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.374Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.382Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.384Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:49:48.416Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.697Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.709Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.714Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.716Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.719Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.721Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.727Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.735Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.738Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.743Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.752Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.758Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.902Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.904Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.918Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.920Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.923Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.929Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.947Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.949Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.957Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.960Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:03.967Z] warn: <service-helpers> Error parsing service "Hypervisor" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.852Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.859Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.861Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.865Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.867Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.870Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.877Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.881Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.883Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.886Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.895Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:20.896Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.026Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.040Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.042Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.049Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.051Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.054Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.062Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.064Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.082Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.086Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:21.093Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:51.016Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:51.017Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:51.024Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:51.026Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:51.033Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:51.035Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:51.042Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:51.043Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:51.047Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:51.049Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:54.989Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:54.990Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:54.992Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:54.995Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:54.997Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.010Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.014Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.015Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.017Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.029Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.031Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.188Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.189Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.191Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.200Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.201Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.221Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.223Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.225Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.230Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.239Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:50:55.239Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.395Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.404Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.412Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.414Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.417Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.418Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.419Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.423Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.438Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.441Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.450Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.452Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.624Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.626Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.628Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.630Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.646Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.647Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.649Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.651Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.652Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.655Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T02:51:41.720Z] warn: <service-helpers> Error parsing service "PVE" from config. Ensure required fields are present.
+[2026-08-31T03:19:07.085Z] error: <OMVProxyHandler> HTTP 404 getting data from OpenMediaVault RPC. Data: {"response":null,"error":{"code":0,"message":"The method 'getStatus, smart' does not exist for the RPC service 'services'.","trace":"OMV\\HttpErrorException: The method 'getStatus, smart' does not exist for the RPC service 'services'. in \/usr\/share\/php\/openmediavault\/rpc\/rpc.inc:103\nStack trace:\n#0 \/usr\/sbin\/omv-engined(601): OMV\\Rpc\\Rpc::call()\n#1 {main}"}}
+[2026-08-31T03:24:09.770Z] error: undefined
+[2026-08-31T03:24:09.777Z] error: undefined
+[2026-08-31T03:24:09.789Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at l (/app/.next/server/pages/index.js:1:67930)
+    at renderWithHooks (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:4747:18)
+    at renderElement (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:4885:14)
+    at retryNode (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5603:16)
+    at renderNodeDestructive (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5397:7)
+    at renderNode (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5964:14)
+    at renderChildrenArray (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5746:7)
+    at retryNode (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5617:9)
+    at renderNodeDestructive (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5397:7)
+[2026-08-31T03:24:09.797Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at l (/app/.next/server/pages/index.js:1:67930)
+    at renderWithHooks (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:4747:18)
+    at renderElement (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:4885:14)
+    at retryNode (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5603:16)
+    at renderNodeDestructive (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5397:7)
+    at renderNode (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5964:14)
+    at renderChildrenArray (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5746:7)
+    at retryNode (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5617:9)
+    at renderNodeDestructive (/app/node_modules/.pnpm/react-dom@19.2.8_react@19.2.8/node_modules/react-dom/cjs/react-dom-server.edge.production.js:5397:7)
+[2026-08-31T03:37:44.193Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:37:44.194Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:37:44.194Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:37:44.194Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.087Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.087Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.087Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.088Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.096Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.096Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.096Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.096Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.100Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.100Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.100Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.100Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.102Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.102Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.102Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.102Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.103Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.103Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.103Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.103Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.109Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.109Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.109Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.109Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.114Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.114Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.114Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.114Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.117Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.117Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.117Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.117Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.124Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.125Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.125Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.125Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.126Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.126Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.126Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.127Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.132Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.132Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.132Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.132Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.176Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.176Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.176Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.176Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.178Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.178Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.178Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.178Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.185Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.185Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.186Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.186Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.186Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.186Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.186Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.186Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.190Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.190Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.190Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.190Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.200Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.200Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.200Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.200Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.212Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.212Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.212Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.212Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.251Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.251Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.251Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.251Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.406Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.406Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.406Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.406Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.430Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.430Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.430Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.430Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.431Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.431Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.431Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.431Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.436Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.437Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.437Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.437Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.455Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.456Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.456Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.456Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.458Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.458Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.458Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.458Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.458Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.459Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.459Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.459Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.461Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.462Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.462Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.462Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.465Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.465Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.465Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.465Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.474Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.474Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.474Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.475Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.487Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.487Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.487Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.487Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.514Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.514Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.514Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.514Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.515Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.515Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.515Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.515Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.517Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.518Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.518Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.518Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.563Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.563Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.563Z] warn: <service-helpers> Error parsing service "convertx" from config. Ensure required fields are present.
+[2026-08-31T03:38:04.564Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.885Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.886Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.886Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.895Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.895Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.895Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.900Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.900Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.900Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.903Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.903Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.903Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.905Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.905Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.905Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.906Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.906Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.906Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.908Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.908Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.908Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.911Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.911Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.911Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.914Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.914Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.915Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.921Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.921Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.921Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.928Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.928Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.929Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.941Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.941Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.941Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.954Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.954Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.955Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.955Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.955Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.955Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.967Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.967Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:24.967Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.005Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.005Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.005Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.155Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.155Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.155Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.156Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.156Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.156Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.164Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.164Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.165Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.169Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.169Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.169Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.170Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.170Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.170Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.182Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.182Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.182Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.204Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.204Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.204Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.205Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.205Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.205Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.216Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.216Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.216Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.228Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.228Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.228Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.234Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.234Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.234Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.254Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.254Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.255Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.259Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.260Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.260Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.279Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.279Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.279Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.285Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.285Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.285Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.380Z] warn: <service-helpers> Error parsing service "Nextcloud" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.380Z] warn: <service-helpers> Error parsing service "stirling" from config. Ensure required fields are present.
+[2026-08-31T03:38:25.380Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.826Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.832Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.834Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.837Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.838Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.839Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.844Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.849Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.852Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.856Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.858Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.860Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.866Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.877Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.877Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.889Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:40.927Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.057Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.058Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.096Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.116Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.117Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.126Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.132Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.138Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.152Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.171Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.186Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.196Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.204Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.223Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.230Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.233Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.253Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.268Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.269Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:41.330Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.369Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.377Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.379Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.380Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.385Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.386Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.390Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.394Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.396Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.400Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.402Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.407Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.412Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.416Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.418Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.419Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.424Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.429Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.433Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.435Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.447Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.595Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.597Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.598Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.601Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.605Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.606Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.606Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.617Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.619Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.620Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.622Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.634Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.635Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.638Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.648Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.653Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.654Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.665Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.667Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:38:53.676Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:10.992Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.000Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.005Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.009Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.010Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.011Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.013Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.015Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.016Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.022Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.028Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.041Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.055Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.065Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.067Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.091Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.098Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.103Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.105Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:11.116Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.840Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.845Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.850Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.851Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.896Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.902Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.903Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.908Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.934Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.946Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.966Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.968Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.973Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.988Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.996Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:18.997Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:19.008Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:19.035Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:19.035Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:19.071Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.225Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.241Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.244Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.246Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.249Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.253Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.257Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.258Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.259Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.264Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.269Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.298Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.305Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.306Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.308Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.311Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.323Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.335Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.336Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.364Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.401Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.577Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.579Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.580Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.583Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.584Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.613Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.615Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.627Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.627Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.628Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.629Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.661Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.663Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.668Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.684Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.690Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.698Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.710Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.722Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:48.798Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.633Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.636Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.644Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.646Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.647Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.648Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.650Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.652Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.655Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.662Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.674Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.705Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.711Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.717Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.718Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.724Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.751Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.756Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.757Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.761Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.799Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.933Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.936Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.939Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.954Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.958Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.964Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.971Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.986Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.986Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.988Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.990Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:53.991Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:54.012Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:54.019Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:54.034Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:54.040Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:54.049Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:54.061Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:54.062Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:39:54.073Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.822Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.874Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.896Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.900Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.905Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.912Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.928Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.938Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.941Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.956Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.960Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.969Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.976Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.988Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:58.990Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.055Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.061Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.068Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.070Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.158Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.301Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.582Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.587Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.588Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.592Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.599Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.600Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.605Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.606Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.614Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.616Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.628Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.630Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.631Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.633Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.636Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.643Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.646Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.665Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.677Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:46:59.687Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.291Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.294Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.296Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.305Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.306Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.316Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.320Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.324Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.326Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.328Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.339Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.343Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.346Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.348Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.354Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.355Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.357Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.371Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.372Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.373Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.383Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.544Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.546Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.548Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.550Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.552Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.553Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.565Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.567Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.568Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.570Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.582Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.585Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.587Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.589Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.595Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.596Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.598Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.610Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.613Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:47:52.621Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.610Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.615Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.622Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.627Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.637Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.642Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.654Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.656Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.667Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.671Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:22.679Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:52.638Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:52.640Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:52.647Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:52.659Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:52.662Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:52.665Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:52.675Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:52.695Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:52.698Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:52.699Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:48:54.663Z] warn: <service-helpers> Error parsing service "Homepage" from config. Ensure required fields are present.
+[2026-08-31T03:53:35.061Z] error: Host validation failed for: home.uhhhhh. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-08-31T03:54:06.413Z] error: Host validation failed for: home.uhhhhh. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-08-31T03:55:51.262Z] error: Host validation failed for: home.uhhhhh. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-08-31T03:55:52.908Z] error: Host validation failed for: home.uhhhhh. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-08-31T04:11:23.802Z] debug: <resources> memory: {"total":1994600448,"free":531513344,"used":1463087104,"active":667164672,"available":1327435776,"buffers":1667072,"cached":893698048,"slab":161472512,"buffcache":1056837632,"reclaimable":85340160,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":1105920}
+[2026-08-31T04:11:23.809Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:11:27.192Z] debug: <resources> memory: {"total":1994600448,"free":522608640,"used":1471991808,"active":676052992,"available":1318547456,"buffers":1667072,"cached":893698048,"slab":161505280,"buffcache":1056870400,"reclaimable":85372928,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":1126400}
+[2026-08-31T04:11:30.207Z] debug: <resources> memory: {"total":1994600448,"free":525570048,"used":1469030400,"active":673091584,"available":1321508864,"buffers":1667072,"cached":893698048,"slab":161505280,"buffcache":1056870400,"reclaimable":85372928,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":1134592}
+[2026-08-31T04:11:33.227Z] debug: <resources> memory: {"total":1994600448,"free":529506304,"used":1465094144,"active":669155328,"available":1325445120,"buffers":1667072,"cached":893698048,"slab":161505280,"buffcache":1056870400,"reclaimable":85372928,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":1142784}
+[2026-08-31T04:11:36.243Z] debug: <resources> memory: {"total":1994600448,"free":537894912,"used":1456705536,"active":660762624,"available":1333837824,"buffers":1667072,"cached":893702144,"slab":161505280,"buffcache":1056874496,"reclaimable":85372928,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":1155072}
+[2026-08-31T04:11:39.257Z] debug: <resources> memory: {"total":1994600448,"free":546803712,"used":1447796736,"active":651845632,"available":1342754816,"buffers":1667072,"cached":893702144,"slab":161521664,"buffcache":1056890880,"reclaimable":85389312,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":69632}
+[2026-08-31T04:11:42.269Z] debug: <resources> memory: {"total":1994600448,"free":546803712,"used":1447796736,"active":651845632,"available":1342754816,"buffers":1667072,"cached":893702144,"slab":161521664,"buffcache":1056890880,"reclaimable":85389312,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":241664}
+[2026-08-31T04:11:43.224Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:11:43.269Z] debug: <OMVProxyHandler> Session not authenticated.
+[2026-08-31T04:11:43.570Z] debug: <OMVProxyHandler> Retrying OpenMediaVault request after login.
+[2026-08-31T04:11:45.292Z] debug: <resources> memory: {"total":1994600448,"free":533962752,"used":1460637696,"active":664686592,"available":1329913856,"buffers":1667072,"cached":893702144,"slab":161521664,"buffcache":1056890880,"reclaimable":85389312,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":282624}
+[2026-08-31T04:11:46.702Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:11:48.346Z] debug: <resources> memory: {"total":1994600448,"free":546029568,"used":1448570880,"active":652619776,"available":1341980672,"buffers":1667072,"cached":893702144,"slab":161521664,"buffcache":1056890880,"reclaimable":85389312,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":299008}
+[2026-08-31T04:11:49.721Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:11:50.517Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:11:50.774Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:11:50.777Z] debug: <resources> memory: {"total":1994600448,"free":522027008,"used":1472573440,"active":676470784,"available":1318129664,"buffers":1667072,"cached":893788160,"slab":161656832,"buffcache":1057112064,"reclaimable":85520384,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":405504}
+[2026-08-31T04:11:50.798Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386842112,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:11:50.972Z] debug: <jsonrpcProxyHandler> Error calling JSONPRC endpoint: https://openwrt.uhhhhh/ubus.  Access denied
+[2026-08-31T04:11:53.765Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:11:53.767Z] debug: <resources> memory: {"total":1994600448,"free":517988352,"used":1476612096,"active":680349696,"available":1314250752,"buffers":1667072,"cached":893923328,"slab":161701888,"buffcache":1057292288,"reclaimable":85569536,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":524288}
+[2026-08-31T04:11:56.781Z] debug: <resources> memory: {"total":1994600448,"free":521953280,"used":1472647168,"active":676384768,"available":1318215680,"buffers":1667072,"cached":893923328,"slab":161701888,"buffcache":1057292288,"reclaimable":85569536,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":598016}
+[2026-08-31T04:11:56.784Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:11:59.802Z] debug: <resources> memory: {"total":1994600448,"free":525631488,"used":1468968960,"active":672706560,"available":1321893888,"buffers":1667072,"cached":893923328,"slab":161705984,"buffcache":1057296384,"reclaimable":85569536,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":651264}
+[2026-08-31T04:11:59.806Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:02.890Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:02.891Z] debug: <resources> memory: {"total":1994600448,"free":533245952,"used":1461354496,"active":665092096,"available":1329508352,"buffers":1667072,"cached":893923328,"slab":161710080,"buffcache":1057300480,"reclaimable":85569536,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":671744}
+[2026-08-31T04:12:05.912Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:05.913Z] debug: <resources> memory: {"total":1994600448,"free":532471808,"used":1462128640,"active":665866240,"available":1328734208,"buffers":1667072,"cached":893923328,"slab":161714176,"buffcache":1057304576,"reclaimable":85569536,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":692224}
+[2026-08-31T04:12:08.928Z] debug: <resources> memory: {"total":1994600448,"free":532471808,"used":1462128640,"active":665862144,"available":1328738304,"buffers":1667072,"cached":893927424,"slab":161714176,"buffcache":1057308672,"reclaimable":85569536,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":712704}
+[2026-08-31T04:12:08.932Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:11.945Z] debug: <resources> memory: {"total":1994600448,"free":532471808,"used":1462128640,"active":665862144,"available":1328738304,"buffers":1667072,"cached":893927424,"slab":161718272,"buffcache":1057312768,"reclaimable":85569536,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":552960}
+[2026-08-31T04:12:11.950Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:14.967Z] debug: <resources> memory: {"total":1994600448,"free":528019456,"used":1466580992,"active":670314496,"available":1324285952,"buffers":1667072,"cached":893927424,"slab":161718272,"buffcache":1057312768,"reclaimable":85569536,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":143360}
+[2026-08-31T04:12:14.972Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:17.976Z] debug: <resources> memory: {"total":1994600448,"free":528019456,"used":1466580992,"active":670314496,"available":1324285952,"buffers":1667072,"cached":893927424,"slab":161718272,"buffcache":1057312768,"reclaimable":85569536,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":327680}
+[2026-08-31T04:12:17.987Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:21.029Z] debug: <resources> memory: {"total":1994600448,"free":527245312,"used":1467355136,"active":671088640,"available":1323511808,"buffers":1667072,"cached":893927424,"slab":161718272,"buffcache":1057312768,"reclaimable":85569536,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":344064}
+[2026-08-31T04:12:21.033Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:24.045Z] debug: <resources> memory: {"total":1994600448,"free":523051008,"used":1471549440,"active":675287040,"available":1319313408,"buffers":1667072,"cached":893931520,"slab":161710080,"buffcache":1057308672,"reclaimable":85553152,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":372736}
+[2026-08-31T04:12:24.050Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386874880,"available":2460766208,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:27.061Z] debug: <resources> memory: {"total":1994600448,"free":527245312,"used":1467355136,"active":671092736,"available":1323507712,"buffers":1667072,"cached":893931520,"slab":161705984,"buffcache":1057304576,"reclaimable":85553152,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":253952}
+[2026-08-31T04:12:27.066Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:30.072Z] debug: <resources> memory: {"total":1994600448,"free":530923520,"used":1463676928,"active":667414528,"available":1327185920,"buffers":1667072,"cached":893931520,"slab":161705984,"buffcache":1057304576,"reclaimable":85553152,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":319488}
+[2026-08-31T04:12:30.085Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:33.084Z] debug: <resources> memory: {"total":1994600448,"free":530149376,"used":1464451072,"active":668188672,"available":1326411776,"buffers":1667072,"cached":893931520,"slab":161697792,"buffcache":1057296384,"reclaimable":85553152,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":335872}
+[2026-08-31T04:12:33.101Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:33.264Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:12:36.094Z] debug: <resources> memory: {"total":1994600448,"free":525955072,"used":1468645376,"active":672382976,"available":1322217472,"buffers":1667072,"cached":893931520,"slab":161697792,"buffcache":1057296384,"reclaimable":85553152,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":434176}
+[2026-08-31T04:12:36.118Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:39.105Z] debug: <resources> memory: {"total":1994600448,"free":525955072,"used":1468645376,"active":672378880,"available":1322221568,"buffers":1667072,"cached":893935616,"slab":161697792,"buffcache":1057300480,"reclaimable":85553152,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":462848}
+[2026-08-31T04:12:39.135Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:42.116Z] debug: <resources> memory: {"total":1994600448,"free":521502720,"used":1473097728,"active":676831232,"available":1317769216,"buffers":1667072,"cached":893935616,"slab":161697792,"buffcache":1057300480,"reclaimable":85553152,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":368640}
+[2026-08-31T04:12:42.153Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:43.266Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:12:44.873Z] debug: <resources> memory: {"total":1994600448,"free":524529664,"used":1470070784,"active":673787904,"available":1320812544,"buffers":1667072,"cached":893935616,"slab":161722368,"buffcache":1057325056,"reclaimable":85585920,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":430080}
+[2026-08-31T04:12:44.875Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:44.986Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:12:47.818Z] debug: <resources> memory: {"total":1994600448,"free":523964416,"used":1470636032,"active":674328576,"available":1320271872,"buffers":1667072,"cached":893935616,"slab":161849344,"buffcache":1057452032,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":450560}
+[2026-08-31T04:12:47.821Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:50.833Z] debug: <resources> memory: {"total":1994600448,"free":523964416,"used":1470636032,"active":674328576,"available":1320271872,"buffers":1667072,"cached":893935616,"slab":161849344,"buffcache":1057452032,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":40960}
+[2026-08-31T04:12:50.837Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:53.051Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:53.064Z] debug: <resources> memory: {"total":1994600448,"free":526544896,"used":1468055552,"active":671744000,"available":1322856448,"buffers":1667072,"cached":893939712,"slab":161853440,"buffcache":1057460224,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":233472}
+[2026-08-31T04:12:53.162Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:12:55.343Z] debug: <resources> memory: {"total":1994600448,"free":521863168,"used":1472737280,"active":676425728,"available":1318174720,"buffers":1667072,"cached":893939712,"slab":161853440,"buffcache":1057460224,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":270336}
+[2026-08-31T04:12:55.354Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5386997760,"available":2460643328,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:12:58.378Z] debug: <resources> memory: {"total":1994600448,"free":521863168,"used":1472737280,"active":676425728,"available":1318174720,"buffers":1667072,"cached":893939712,"slab":161845248,"buffcache":1057452032,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":286720}
+[2026-08-31T04:12:58.381Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:01.403Z] debug: <resources> memory: {"total":1994600448,"free":521863168,"used":1472737280,"active":676425728,"available":1318174720,"buffers":1667072,"cached":893939712,"slab":161849344,"buffcache":1057456128,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":303104}
+[2026-08-31T04:13:01.407Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:04.431Z] debug: <resources> memory: {"total":1994600448,"free":522379264,"used":1472221184,"active":675909632,"available":1318690816,"buffers":1667072,"cached":893939712,"slab":161845248,"buffcache":1057452032,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":323584}
+[2026-08-31T04:13:04.433Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:07.451Z] debug: <resources> memory: {"total":1994600448,"free":526573568,"used":1468026880,"active":671711232,"available":1322889216,"buffers":1667072,"cached":893943808,"slab":161845248,"buffcache":1057456128,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":344064}
+[2026-08-31T04:13:07.455Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:10.465Z] debug: <resources> memory: {"total":1994600448,"free":534962176,"used":1459638272,"active":663322624,"available":1331277824,"buffers":1667072,"cached":893943808,"slab":161853440,"buffcache":1057464320,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":364544}
+[2026-08-31T04:13:10.470Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:13.480Z] debug: <resources> memory: {"total":1994600448,"free":526573568,"used":1468026880,"active":671711232,"available":1322889216,"buffers":1667072,"cached":893943808,"slab":161853440,"buffcache":1057464320,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":446464}
+[2026-08-31T04:13:13.485Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:16.491Z] debug: <resources> memory: {"total":1994600448,"free":519798784,"used":1474801664,"active":678477824,"available":1316122624,"buffers":1667072,"cached":893943808,"slab":161878016,"buffcache":1057488896,"reclaimable":85651456,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":348160}
+[2026-08-31T04:13:16.504Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:19.503Z] debug: <resources> memory: {"total":1994600448,"free":536588288,"used":1458012160,"active":661688320,"available":1332912128,"buffers":1667072,"cached":893943808,"slab":161878016,"buffcache":1057488896,"reclaimable":85651456,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":401408}
+[2026-08-31T04:13:19.522Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:22.513Z] debug: <resources> memory: {"total":1994600448,"free":532393984,"used":1462206464,"active":665878528,"available":1328721920,"buffers":1667072,"cached":893947904,"slab":161878016,"buffcache":1057492992,"reclaimable":85651456,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":471040}
+[2026-08-31T04:13:22.537Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:25.566Z] debug: <resources> memory: {"total":1994600448,"free":528457728,"used":1466142720,"active":669814784,"available":1324785664,"buffers":1667072,"cached":893947904,"slab":161878016,"buffcache":1057492992,"reclaimable":85651456,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":491520}
+[2026-08-31T04:13:25.570Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387010048,"available":2460631040,"use":68.64,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:28.577Z] debug: <resources> memory: {"total":1994600448,"free":524263424,"used":1470337024,"active":674009088,"available":1320591360,"buffers":1667072,"cached":893947904,"slab":161878016,"buffcache":1057492992,"reclaimable":85651456,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":8192}
+[2026-08-31T04:13:28.587Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387026432,"available":2460614656,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387026432,"available":2460614656,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387026432,"available":2460614656,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:31.587Z] debug: <resources> memory: {"total":1994600448,"free":520069120,"used":1474531328,"active":678203392,"available":1316397056,"buffers":1667072,"cached":893947904,"slab":161878016,"buffcache":1057492992,"reclaimable":85651456,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":221184}
+[2026-08-31T04:13:31.604Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387026432,"available":2460614656,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387026432,"available":2460614656,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387026432,"available":2460614656,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:34.597Z] debug: <resources> memory: {"total":1994600448,"free":524263424,"used":1470337024,"active":674009088,"available":1320591360,"buffers":1667072,"cached":893947904,"slab":161878016,"buffcache":1057492992,"reclaimable":85651456,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":241664}
+[2026-08-31T04:13:34.621Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387026432,"available":2460614656,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387026432,"available":2460614656,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387026432,"available":2460614656,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:13:35.713Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:14:35.777Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:14:35.779Z] debug: <resources> memory: {"total":1994600448,"free":524521472,"used":1470078976,"active":673755136,"available":1320845312,"buffers":1667072,"cached":893952000,"slab":161828864,"buffcache":1057447936,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":81920}
+[2026-08-31T04:14:35.854Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:14:35.875Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:14:36.054Z] debug: <resources> memory: {"total":1994600448,"free":520355840,"used":1474244608,"active":677920768,"available":1316679680,"buffers":1667072,"cached":893952000,"slab":161828864,"buffcache":1057447936,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":339968}
+[2026-08-31T04:14:36.058Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:14:36.172Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:14:39.026Z] debug: <resources> memory: {"total":1994600448,"free":520097792,"used":1474502656,"active":678178816,"available":1316421632,"buffers":1667072,"cached":893952000,"slab":161853440,"buffcache":1057472512,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":405504}
+[2026-08-31T04:14:39.031Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:14:39.100Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:14:42.036Z] debug: <resources> memory: {"total":1994600448,"free":520097792,"used":1474502656,"active":678178816,"available":1316421632,"buffers":1667072,"cached":893952000,"slab":161853440,"buffcache":1057472512,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":425984}
+[2026-08-31T04:14:42.048Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:14:45.063Z] debug: <resources> memory: {"total":1994600448,"free":513712128,"used":1480888320,"active":684564480,"available":1310035968,"buffers":1667072,"cached":893952000,"slab":161853440,"buffcache":1057472512,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":446464}
+[2026-08-31T04:14:45.066Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:14:45.252Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:14:48.073Z] debug: <resources> memory: {"total":1994600448,"free":521777152,"used":1472823296,"active":676495360,"available":1318105088,"buffers":1667072,"cached":893956096,"slab":161857536,"buffcache":1057480704,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":139264}
+[2026-08-31T04:14:48.087Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:14:51.085Z] debug: <resources> memory: {"total":1994600448,"free":521777152,"used":1472823296,"active":676495360,"available":1318105088,"buffers":1667072,"cached":893956096,"slab":161857536,"buffcache":1057480704,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":311296}
+[2026-08-31T04:14:51.103Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:14:54.096Z] debug: <resources> memory: {"total":1994600448,"free":517582848,"used":1477017600,"active":680689664,"available":1313910784,"buffers":1667072,"cached":893956096,"slab":161857536,"buffcache":1057480704,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":327680}
+[2026-08-31T04:14:54.209Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:14:57.206Z] debug: <resources> memory: {"total":1994600448,"free":530165760,"used":1464434688,"active":668106752,"available":1326493696,"buffers":1667072,"cached":893956096,"slab":161857536,"buffcache":1057480704,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":344064}
+[2026-08-31T04:14:57.225Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:00.217Z] debug: <resources> memory: {"total":1994600448,"free":515485696,"used":1479114752,"active":682782720,"available":1311817728,"buffers":1667072,"cached":893960192,"slab":161857536,"buffcache":1057484800,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":372736}
+[2026-08-31T04:15:00.241Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387038720,"available":2460602368,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:03.228Z] debug: <resources> memory: {"total":1994600448,"free":519421952,"used":1475178496,"active":678846464,"available":1315753984,"buffers":1667072,"cached":893960192,"slab":161857536,"buffcache":1057484800,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":303104}
+[2026-08-31T04:15:03.257Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:04.258Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:15:04.275Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:15:04.452Z] debug: <resources> memory: {"total":1994600448,"free":531230720,"used":1463369728,"active":667037696,"available":1327562752,"buffers":1667072,"cached":893960192,"slab":161869824,"buffcache":1057497088,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":479232}
+[2026-08-31T04:15:04.454Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:06.726Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:15:07.194Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:07.453Z] debug: <resources> memory: {"total":1994600448,"free":522842112,"used":1471758336,"active":675426304,"available":1319174144,"buffers":1667072,"cached":893960192,"slab":161873920,"buffcache":1057501184,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":516096}
+[2026-08-31T04:15:07.465Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:07.488Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:07.489Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:07.505Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:07.548Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:08.632Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:10.462Z] debug: <resources> memory: {"total":1994600448,"free":518647808,"used":1475952640,"active":679620608,"available":1314979840,"buffers":1667072,"cached":893960192,"slab":161849344,"buffcache":1057476608,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":577536}
+[2026-08-31T04:15:10.482Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:13.192Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:13.472Z] debug: <resources> memory: {"total":1994600448,"free":527036416,"used":1467564032,"active":671227904,"available":1323372544,"buffers":1667072,"cached":893964288,"slab":161849344,"buffcache":1057480704,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":593920}
+[2026-08-31T04:15:13.500Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:14.239Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:16.487Z] debug: <resources> memory: {"total":1994600448,"free":527036416,"used":1467564032,"active":671227904,"available":1323372544,"buffers":1667072,"cached":893964288,"slab":161849344,"buffcache":1057480704,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":364544}
+[2026-08-31T04:15:16.517Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:19.500Z] debug: <resources> memory: {"total":1994600448,"free":527036416,"used":1467564032,"active":671227904,"available":1323372544,"buffers":1667072,"cached":893964288,"slab":161845248,"buffcache":1057476608,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":114688}
+[2026-08-31T04:15:19.535Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:19.959Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:22.512Z] debug: <resources> memory: {"total":1994600448,"free":522584064,"used":1472016384,"active":675680256,"available":1318920192,"buffers":1667072,"cached":893964288,"slab":161845248,"buffcache":1057476608,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":319488}
+[2026-08-31T04:15:22.552Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:25.557Z] debug: <resources> memory: {"total":1994600448,"free":522584064,"used":1472016384,"active":675676160,"available":1318924288,"buffers":1667072,"cached":893968384,"slab":161845248,"buffcache":1057480704,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":344064}
+[2026-08-31T04:15:25.562Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387046912,"available":2460594176,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:27.801Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:15:28.599Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:28.605Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:28.616Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:28.664Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:29.747Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:41.437Z] debug: <resources> memory: {"total":1994600448,"free":525488128,"used":1469112320,"active":672772096,"available":1321828352,"buffers":1667072,"cached":893968384,"slab":161849344,"buffcache":1057484800,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":385024}
+[2026-08-31T04:15:41.448Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:43.687Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:15:43.706Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:15:43.889Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:43.893Z] debug: <resources> memory: {"total":1994600448,"free":521764864,"used":1472835584,"active":676491264,"available":1318109184,"buffers":1667072,"cached":893972480,"slab":161857536,"buffcache":1057497088,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":487424}
+[2026-08-31T04:15:44.476Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:44.483Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:44.495Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:44.544Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:45.069Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:45.070Z] debug: <resources> memory: {"total":1994600448,"free":514859008,"used":1479741440,"active":683397120,"available":1311203328,"buffers":1667072,"cached":893972480,"slab":161878016,"buffcache":1057517568,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":536576}
+[2026-08-31T04:15:45.617Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:46.933Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:46.943Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:46.953Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:46.984Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:47.334Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:15:48.051Z] debug: <resources> memory: {"total":1994600448,"free":510885888,"used":1483714560,"active":687366144,"available":1307234304,"buffers":1667072,"cached":893976576,"slab":161935360,"buffcache":1057579008,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":618496}
+[2026-08-31T04:15:48.063Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:15:48.105Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:48.108Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:48.117Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:48.164Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:15:49.227Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:09.694Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387059200,"available":2460581888,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:09.695Z] debug: <resources> memory: {"total":1994600448,"free":510885888,"used":1483714560,"active":687366144,"available":1307234304,"buffers":1667072,"cached":893976576,"slab":161906688,"buffcache":1057550336,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":114688}
+[2026-08-31T04:16:11.937Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:16:12.388Z] debug: <resources> memory: {"total":1994600448,"free":513044480,"used":1481555968,"active":685207552,"available":1309392896,"buffers":1667072,"cached":893976576,"slab":161910784,"buffcache":1057554432,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":245760}
+[2026-08-31T04:16:12.402Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:12.734Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:12.737Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:12.751Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:12.794Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:13.856Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:14.847Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:14.850Z] debug: <resources> memory: {"total":1994600448,"free":509825024,"used":1484775424,"active":688422912,"available":1306177536,"buffers":1667072,"cached":893980672,"slab":161910784,"buffcache":1057558528,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":319488}
+[2026-08-31T04:16:17.131Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:16:17.832Z] debug: <resources> memory: {"total":1994600448,"free":509825024,"used":1484775424,"active":688422912,"available":1306177536,"buffers":1667072,"cached":893980672,"slab":161914880,"buffcache":1057562624,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":348160}
+[2026-08-31T04:16:17.845Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:17.886Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:17.891Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:17.905Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:17.959Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:19.062Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:20.886Z] debug: <resources> memory: {"total":1994600448,"free":514019328,"used":1480581120,"active":684228608,"available":1310371840,"buffers":1667072,"cached":893980672,"slab":161918976,"buffcache":1057566720,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":385024}
+[2026-08-31T04:16:20.893Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:23.899Z] debug: <resources> memory: {"total":1994600448,"free":509825024,"used":1484775424,"active":688422912,"available":1306177536,"buffers":1667072,"cached":893980672,"slab":161918976,"buffcache":1057566720,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":434176}
+[2026-08-31T04:16:23.910Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:26.961Z] debug: <resources> memory: {"total":1994600448,"free":509566976,"used":1485033472,"active":688680960,"available":1305919488,"buffers":1667072,"cached":893980672,"slab":161918976,"buffcache":1057566720,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":454656}
+[2026-08-31T04:16:26.965Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:29.845Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:16:30.021Z] debug: <resources> memory: {"total":1994600448,"free":513503232,"used":1481097216,"active":684740608,"available":1309859840,"buffers":1667072,"cached":893984768,"slab":161935360,"buffcache":1057587200,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":475136}
+[2026-08-31T04:16:30.035Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:30.613Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:30.621Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:30.635Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:31.040Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:31.734Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:16:33.034Z] debug: <resources> memory: {"total":1994600448,"free":513503232,"used":1481097216,"active":684740608,"available":1309859840,"buffers":1667072,"cached":893984768,"slab":161927168,"buffcache":1057579008,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":544768}
+[2026-08-31T04:16:33.054Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:36.049Z] debug: <resources> memory: {"total":1994600448,"free":513503232,"used":1481097216,"active":684740608,"available":1309859840,"buffers":1667072,"cached":893984768,"slab":161931264,"buffcache":1057583104,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":557056}
+[2026-08-31T04:16:36.071Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:39.064Z] debug: <resources> memory: {"total":1994600448,"free":513503232,"used":1481097216,"active":684740608,"available":1309859840,"buffers":1667072,"cached":893984768,"slab":161931264,"buffcache":1057583104,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":569344}
+[2026-08-31T04:16:39.090Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:42.076Z] debug: <resources> memory: {"total":1994600448,"free":513503232,"used":1481097216,"active":684736512,"available":1309863936,"buffers":1667072,"cached":893988864,"slab":161935360,"buffcache":1057591296,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":114688}
+[2026-08-31T04:16:42.107Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387075584,"available":2460565504,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:16:45.094Z] debug: <resources> memory: {"total":1994600448,"free":511184896,"used":1483415552,"active":687054848,"available":1307545600,"buffers":1667072,"cached":893988864,"slab":161939456,"buffcache":1057595392,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":200704}
+[2026-08-31T04:16:45.125Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:17:01.133Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:17:01.134Z] debug: <resources> memory: {"total":1994600448,"free":515121152,"used":1479479296,"active":683118592,"available":1311481856,"buffers":1667072,"cached":893988864,"slab":161935360,"buffcache":1057591296,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":217088}
+[2026-08-31T04:17:03.370Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:17:04.062Z] debug: <resources> memory: {"total":1994600448,"free":510926848,"used":1483673600,"active":687312896,"available":1307287552,"buffers":1667072,"cached":893988864,"slab":161947648,"buffcache":1057603584,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":278528}
+[2026-08-31T04:17:04.076Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:17:04.165Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:17:04.176Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:17:04.189Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:17:04.223Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:17:05.287Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:17:07.073Z] debug: <resources> memory: {"total":1994600448,"free":506732544,"used":1487867904,"active":691503104,"available":1303097344,"buffers":1667072,"cached":893992960,"slab":161947648,"buffcache":1057607680,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":344064}
+[2026-08-31T04:17:07.094Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:17:11.096Z] debug: No containers were found with homepage labels.
+[2026-08-31T04:17:11.146Z] debug: <resources> memory: {"total":1994600448,"free":510926848,"used":1483673600,"active":687308800,"available":1307291648,"buffers":1667072,"cached":893992960,"slab":161951744,"buffcache":1057611776,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":360448}
+[2026-08-31T04:17:11.172Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:17:11.888Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:17:11.897Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:17:11.908Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:17:11.944Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:17:13.040Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T04:17:14.160Z] debug: <resources> memory: {"total":1994600448,"free":510926848,"used":1483673600,"active":687308800,"available":1307291648,"buffers":1667072,"cached":893992960,"slab":161927168,"buffcache":1057587200,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":425984}
+[2026-08-31T04:17:14.187Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T04:17:16.911Z] debug: <resources> memory: {"total":1994600448,"free":510668800,"used":1483931648,"active":687566848,"available":1307033600,"buffers":1667072,"cached":893992960,"slab":161935360,"buffcache":1057595392,"reclaimable":85635072,"swaptotal":2148507648,"swapused":41943040,"swapfree":2106564608,"writeback":0,"dirty":114688}
+[2026-08-31T04:17:16.915Z] debug: <resources> fsSize: [{"fs":"overlay","type":"overlay","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/","rw":false},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/config","rw":true},{"fs":"/dev/sda2","type":"btrfs","size":8050966528,"used":5387091968,"available":2460549120,"use":68.65,"mount":"/app/public/images","rw":true}]
+[2026-08-31T13:01:56.228Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:01:56.240Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:01:56.257Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:01:56.656Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:01:57.723Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:02:08.199Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:02:08.207Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:02:08.219Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:02:08.253Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:02:09.400Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:03:08.422Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:03:08.431Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:03:08.449Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:03:08.491Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:03:09.560Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:04:17.711Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:04:17.720Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:04:17.735Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:04:17.783Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:04:18.854Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:07:39.230Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:07:39.241Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:07:39.256Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:07:39.661Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:07:40.370Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:07:47.015Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:07:47.026Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:07:47.041Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:07:47.062Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:07:48.156Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:10:11.694Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:10:11.702Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:10:11.713Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:10:11.754Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:10:12.841Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:10:23.493Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:10:23.503Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:10:23.513Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:10:23.542Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:10:24.669Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:17:21.248Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:17:21.263Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:17:21.458Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:17:21.725Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T13:17:22.611Z] error: <proxmoxStatsService> HTTP Error 401 calling Proxmox API
+[2026-08-31T23:37:12.052Z] error: <credentialedProxyHandler> HTTP Error 502 calling https://nextcloud.uhhhhh/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2026-08-31T23:37:21.458Z] error: <credentialedProxyHandler> HTTP Error 502 calling https://nextcloud.uhhhhh/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2026-08-31T23:40:57.991Z] error: <credentialedProxyHandler> HTTP Error 502 calling https://nextcloud.uhhhhh/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2026-08-31T23:44:50.003Z] error: <credentialedProxyHandler> HTTP Error 502 calling https://nextcloud.uhhhhh/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2026-08-31T23:45:14.361Z] error: <credentialedProxyHandler> HTTP Error 502 calling https://nextcloud.uhhhhh/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2026-09-07T21:21:30.940Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/nntWPCptbL11CNTRL...
+[2026-09-07T21:21:30.948Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at ignore-listed frames {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2026-09-07T21:21:30.948Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/nntWPCptbL11CNTRL

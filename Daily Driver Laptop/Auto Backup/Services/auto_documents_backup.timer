@@ -1,0 +1,10 @@
+[Unit]
+Description=Auto Sync the Documents using Rsync
+
+[Timer]
+OnCalendar=*-*-* 00/3:00:00
+#OnCalendar=hourly
+Persistent=true
+
+[Install]
+WantedBy=timers.target

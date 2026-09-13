@@ -1,0 +1,25 @@
+[Unit]
+Description=Nextcloud App
+After=mariadb.service redis.service
+Requires=mariadb.service redis.service
+
+[Container]
+Image=localhost/nextcloud-custom:latest
+ContainerName=nextcloud
+Network=nextcloud.network
+PublishPort=8080:80
+Environment=MYSQL_PASSWORD=***REMOVED***
+Environment=MYSQL_DATABASE=nextcloud
+Environment=MYSQL_USER=***REMOVED***
+Environment=MYSQL_HOST=mariadb
+Environment=vNEXTCLOUD_ADMIN_USER=***REMOVED***
+Environment=NEXTCLOUD_ADMIN_PASSWORD=***REMOVED***
+Environment=NEXTCLOUD_TRUSTED_DOMAINS=nextcloud.uhhhhh
+Volume=%h/nextcloud/website:/var/www/html:Z
+Volume=%h/nextcloud/Documents:/mnt/Documents:Z
+
+[Service]
+Restart=always
+
+[Install]
+WantedBy=default.target

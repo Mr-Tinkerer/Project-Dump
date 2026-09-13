@@ -1,0 +1,18 @@
+[Unit]
+Description=Collabora Online
+After=nextcloud.service
+
+[Container]
+Image=localhost/collabora-custom:latest
+ContainerName=nextcloud_collabora
+Network=nextcloud.network
+PublishPort=9980:9980
+Environment=server_name=office.nextcloud.uhhhhh
+Environment=aliasgroup1=https://nextcloud.uhhhhh
+AddCapability=MKNOD
+
+[Service]
+Restart=always
+
+[Install]
+WantedBy=default.target

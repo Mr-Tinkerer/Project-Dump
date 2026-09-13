@@ -1,0 +1,6 @@
+Arrrrgh -fstype=nfs,rw 10.10.0.13:/export/Arrrrgh
+Documents -fstype=nfs,rw 10.10.0.13:/export/Documents
+ISOs -fstype=nfs,rw 10.10.0.13:/export/ISOs
+LLMs -fstype=nfs,rw 10.10.0.13:/export/LLMs
+PBS -fstype=nfs,rw 10.10.0.13:/export/PBS
+PC_Backups -fstype=nfs,rw 10.10.0.13:/export/PC_Backups

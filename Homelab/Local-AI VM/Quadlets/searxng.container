@@ -1,0 +1,15 @@
+[Unit]
+Description=Private Search Engine
+
+[Container]
+Image=ghcr.io/searxng/searxng
+ContainerName=searxng
+Volume=%h/searxng/config/:/etc/searxng:Z
+Volume=%h/searxng/data/:/var/cache/searxng:Z
+PublishPort=8888:8080
+
+[Service]
+Restart=always
+
+[Install]
+WantedBy=default.target

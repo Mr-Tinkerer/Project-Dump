@@ -1,0 +1,12 @@
+[Unit]
+Description=Automatically backup the home directory via Borg.
+After=graphical-session.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/<YOUR_USERNAME>/Documents/scripts
+ExecStart=/bin/bash borg_backup.sh
+Environment="DISPLAY=:0" "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus"
+
+[Install]
+WantedBy=graphical-session.target

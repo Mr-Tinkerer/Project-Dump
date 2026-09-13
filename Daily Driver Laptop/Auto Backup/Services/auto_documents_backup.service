@@ -1,0 +1,14 @@
+[Unit]
+Description=Automatically Sync the Documents using Rsync.
+After=graphical-session.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/pengmania/Documents
+ExecStart=/usr/bin/rsync -avh --progress /home/pengmania/Documents/ /mnt/OMV/Documents 
+
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=graphical-session.target

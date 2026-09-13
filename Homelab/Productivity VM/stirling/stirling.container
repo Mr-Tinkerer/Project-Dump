@@ -1,0 +1,19 @@
+[Unit]
+Description=Stirling PDF
+
+[Container]
+ContainerName=stirling
+Network=stirling.network
+Image=docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest-fat
+PublishPort=8090:8080
+Volume=%h/stirling:/configs:Z
+# Volume=%h/stirling/logs:/logs:Z
+# Volume=%h/stirling/customFiles:/customFiles:Z
+# Volume=%h/stirling/pipeline:/pipeline:Z
+# Volume=%h/stirling/tessdata:/usr/share/tessdata:Z
+
+[Service]
+Restart=always
+
+[Install]
+WantedBy=default.target

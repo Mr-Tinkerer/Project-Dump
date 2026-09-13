@@ -1,0 +1,13 @@
+[Unit]
+Description=Nextcloud Redis
+
+[Container]
+Image=docker.io/library/redis:alpine
+ContainerName=redis
+Network=nextcloud.network
+
+[Service]
+Restart=always
+
+[Install]
+WantedBy=default.target

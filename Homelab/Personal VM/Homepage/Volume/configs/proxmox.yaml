@@ -1,0 +1,5 @@
+# ---
+# pve:
+#   url: https://10.10.0.12:8006
+#   token: api@pam!homepage
+#   secret: a5bbe3cc-58db-4199-ad37-a7392a4a981d

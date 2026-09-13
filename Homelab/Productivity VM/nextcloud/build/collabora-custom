@@ -1,0 +1,12 @@
+# Stage 1: build the CA bundle using an image that actually has a shell
+FROM ubuntu:24.04 AS certbuilder
+RUN apt-get update && apt-get install -y ca-certificates
+COPY openCA.pem /usr/local/share/ca-certificates/openCA.crt
+RUN update-ca-certificates
+
+# Stage 2: Collabora image, just drop the pre-built bundle in — no RUN needed
+FROM collabora/code
+USER root
+COPY --from=certbuilder /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/ca-certificates.crt
+COPY --from=certbuilder /etc/ssl/certs/openCA.pem /etc/ssl/certs/openCA.pem
+USER cool

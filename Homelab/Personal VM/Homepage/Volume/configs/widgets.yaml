@@ -1,0 +1,39 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/info-widgets/
+
+- logo:
+    icon: /images/logo.png
+
+- greeting:
+    text_size: xl
+    text: Uhhhhh's HomeLab
+
+- datetime:
+    text_size: xl
+    format:
+      dateStyle: short
+      timeStyle: short
+      hour12: true
+
+- resources:
+    cpu: true
+    memory: true
+    disk: /
+
+- openmeteo:
+    label: Ottawa
+    latitude: 45.21053
+    longitude: 75.45215
+    timezone: America/Toronto # optional
+    units: metric # or imperial
+    cache: 5 # Time in minutes to cache API responses, to stay within limits
+    format: # optional, Intl.NumberFormat options
+      maximumFractionDigits: 1
+
+- search:
+    provider: custom
+    url: https://www.startpage.com/do/dsearch?q=
+    suggestionUrl: https://www.startpage.com/osuggestions?q=%s
+    showSearchSuggestions: true
+    target: _self

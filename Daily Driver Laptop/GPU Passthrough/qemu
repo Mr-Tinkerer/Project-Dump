@@ -1,0 +1,26 @@
+#!/bin/bash
+
+#store the name of the target VM and the hook path
+TARGET_VM="win10"
+BASE_PATH="/etc/libvirt/hooks"
+
+#get all of the arguments passed into the hook from libvirt
+GUEST_VM="$1"
+LIBVIRT_TASKS="$2"
+LIBVIRT_SUBTASKS="$3"
+EXTRA_ARGS="$4"
+
+#check if the current machine passed through is the target one
+if [[ $GUEST_VM == $TARGET_VM ]]; then
+    #check of the VM is booting up
+    if [[ $LIBVIRT_TASKS == "prepare"  && $LIBVIRT_SUBTASKS == "begin" ]]; then
+        #exectue the VM GPU starting script
+        eval "$BASE_PATH/starting_GPU_VM.sh"
+    fi
+
+    #check if the VM is shutting down
+    if [[ $LIBVIRT_TASKS == "release"  && $LIBVIRT_SUBTASKS == "end" ]]; then
+        #execute the VM GPU stopping script
+        eval "$BASE_PATH/stopping_GPU_VM.sh"
+    fi
+fi
