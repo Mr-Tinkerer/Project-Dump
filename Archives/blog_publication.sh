@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #make the script stop when there is an error
-#set -euo pipefail
+set -euo pipefail
 
 #get the starting time in milliseconds
 START=$(date +%s%3N)
