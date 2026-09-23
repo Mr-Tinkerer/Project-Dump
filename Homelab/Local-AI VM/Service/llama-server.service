@@ -3,7 +3,7 @@ Description=Llama.cpp server for LLMs
 
 [Service]
 WorkingDirectory=/opt/llama.cpp/build/bin
-ExecStart=llama-server --host 10.10.0.5 --port 9931 --no-webui -t 4 -c 28762 --models-dir /home/ai/models/
+ExecStart=llama-server --host 10.10.0.5 --port 9931 --no-webui -t 4 -c 28762 --models-max 1 --models-dir /home/ai/models/
 Restart=on-failure
 RestartSec=1
 
