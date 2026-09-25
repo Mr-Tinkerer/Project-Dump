@@ -114,12 +114,47 @@ The OS doesn't refuse the allocation outright — it starts moving less-urgently
 **Physical cores vs. logical threads (Hyperthreading/SMT)**
 A CPU with Hyperthreading/SMT reports more "logical" threads than physical cores (e.g. 6 physical cores → 12 logical threads). For compute-heavy matrix math, performance scales mainly with *physical* cores — setting a thread count equal to logical thread count usually does **not** give a proportional speedup, and can sometimes be slower due to contention. Good starting point: set thread count to the physical core count, then benchmark ±1-2 to find the actual optimum for your workload.
 
+**Shared CPU/GPU power budget on laptops (GPU inference can get *slower* under a "performance" power profile)**
+On many laptops — especially Nvidia Max-Q / Dynamic-Boost-style designs — the CPU and discrete GPU share a combined power and/or thermal budget rather than each having a fully independent ceiling. The OS-level power profile (e.g. `powerprofilesctl`'s `performance`/`balanced`/`power-saver` on Linux, or Windows power plans) primarily governs **CPU** clocks/governor behavior, not GPU clocks directly.
+- **The counterintuitive effect:** for a GPU-bound workload (e.g. LLM inference with most/all layers offloaded to GPU, `-ngl 999`), the CPU is mostly idle. Forcing the CPU governor to `performance` can still pull more of the laptop's *shared* power/thermal envelope toward the CPU (higher idle/base clocks, more aggressive boosting on any CPU activity), leaving *less* headroom for the GPU to boost — even though the CPU isn't the bottleneck for that workload. A `power-saver` profile keeps CPU draw low, which can free up more of the shared budget for the GPU to clock higher, paradoxically increasing GPU-bound throughput.
+- **This is real and machine-dependent, not a fixed rule:** whether — and how strongly — this happens depends on the specific laptop's power-delivery/thermal design (how tightly CPU and GPU budgets are coupled), the GPU's boost algorithm (Nvidia Dynamic Boost 2.0 explicitly shares budget between CPU/GPU on supported laptops), and how the OS power-profile daemon maps its profiles to actual CPU governor/clock behavior. Don't assume this transfers to every laptop, or to desktop/workstation GPUs with independent power delivery.
+- **How to confirm rather than assume:** capture actual GPU power draw/limit and clock speed (e.g. `nvidia-smi -q -d POWER,CLOCK`, or `nvidia-smi --query-gpu=power.draw,clocks.sm,clocks.mem --format=csv -l 1`) during both a `performance`-profile run and a `power-saver`-profile run of the same GPU-bound benchmark.
+- **Confirmed in practice, not just theoretical:** on one tested laptop (Gigabyte GAMING A16, RTX 5060 Laptop/Max-Q), `nvidia-smi -q -d POWER` showed the GPU's own *power limit* set inversely to the OS profile name — `performance` capped the GPU to 45.85W (below its 50W default), while `power-saver` raised it to 60.86W (above default), with `balanced` in between at 53.77W. This directly explained a ~2x tg128 throughput difference favoring `power-saver` on a GPU-bound (`-ngl 999`) llama.cpp benchmark — the OS "performance" profile was evidently tuned around sustained CPU performance, which on this laptop's shared power design came directly at the GPU's expense. See the laptop-specific experiment log for full numbers.
+- **Practical takeaway:** on a laptop, "performance" power profile is not a safe default assumption for best GPU inference speed — benchmark actual power profiles against each other for GPU-bound workloads specifically (and check `nvidia-smi` power limits directly, don't just infer from throughput), the same way thread counts are benchmarked rather than assumed for CPU-bound workloads (see thread-count sweep methodology elsewhere in this glossary/log). Don't assume the same numeric power-limit values or profile-to-GPU-budget mapping transfer to a different laptop model — the *pattern* (OS "performance" profile potentially throttling GPU headroom) generalizes, but always re-measure on the specific machine.
+
 **CPU isolation between VMs sharing one host**
 When a hypervisor host runs multiple VMs, and one VM (e.g. a CPU-intensive LLM workload) is allocated all or most of the physical cores, it can starve other VMs of CPU time whenever it's under load — even if those other VMs have their own vCPU allocations on paper, since vCPU counts don't guarantee physical core availability if everything is contending for the same underlying cores. Common mitigations, roughly in order of how "hard" the guarantee is:
 - **CPU pinning / `cpuset`** — dedicate specific physical cores exclusively to specific VMs (e.g. VM A gets cores 0-3, VM B gets cores 4-5). Strongest isolation; other VMs literally cannot touch the pinned VM's cores and vice versa.
 - **CPU limit / throttling** — cap a VM's *total* CPU time (e.g. "no more than the equivalent of 4 cores' worth"), without dedicating specific cores. Softer guarantee: other VMs get more breathing room without hard-partitioning the hardware.
 - **Reducing vCPU allocation** — the simplest option: just give the heavy VM fewer vCPUs than the host's total physical cores, structurally guaranteeing some cores are never claimed by it.
 - Combined with benchmarking (measuring how much performance is actually lost by capping threads/cores below the physical maximum) this lets you make an informed trade-off between one workload's raw speed and overall host stability.
+
+**Partial GPU offload when a model doesn't fit in VRAM (`-ngl` hybrid split)**
+`-ngl`/`--n-gpu-layers` controls how many of a model's sequential transformer layers are placed on GPU vs. left on CPU/system RAM:
+- `-ngl 999` (or any value ≥ total layer count) → full offload, all layers on GPU.
+- `-ngl 0` → no offload, behaves identically to a CPU-only setup (same as a GPU-less machine).
+- A value in between → **hybrid split**: that many layers run on GPU/VRAM, the remainder run on CPU/system RAM, with data transferred between the two each forward pass.
+- **Performance is not a smooth blend between full-GPU and full-CPU speed.** Hybrid mode is generally bottlenecked toward the CPU-side layers' speed plus added PCIe transfer overhead, since compute has to hop back and forth every pass. Offloading a large majority of layers (~60-70%+) can still feel meaningfully faster than pure CPU; offloading only a small fraction often gives little benefit over `-ngl 0`, and can sometimes be *slower* than CPU-only due to the added transfer overhead.
+- **KV cache competes for the same VRAM budget as offloaded layers** (see KV cache entry above, same concept, VRAM instead of system RAM) — a model that just barely fits fully offloaded may leave little/no VRAM headroom for context size. **By default the KV cache follows the offloaded layers to VRAM** and does not automatically spill into system RAM if it doesn't fit — an oversized `-c` on top of a near-full VRAM offload fails outright at load time (allocation error), the same "no silent overflow" behavior as VRAM in general (see below), not a graceful degradation.
+- **`-nkvo`/`--no-kv-offload` is the explicit escape hatch:** forces the KV cache to live in system RAM even while model layers stay offloaded to GPU, freeing VRAM for more layers or larger context. Trade-off: every attention step now reaches across PCIe to a RAM-resident cache instead of a fast on-GPU read, so it buys VRAM headroom at some generation-speed cost — not a free move, and not something that happens automatically without passing the flag.
+  - **Empirically, the speed penalty scales with how much KV cache data actually exists** — at a small context (e.g. `llama-bench`'s default 512-token prompt / 128-token generation), the cache is small and the PCIe overhead is modest (~6-9% slower measured on one 8B model on an RTX 5060 Laptop GPU, `pp512` 1530 vs 1670 t/s, `tg128` 34.41 vs 37.99 t/s comparing `-nkvo` on vs off). At much larger context sizes / longer generations, expect the gap to widen, since more cache data has to move per token.
+  - **✅ Confirmed via benchmark numbers — gradual VRAM-crowding degradation, not a binary fallback.** Measured `tg128` throughput on one machine (RTX 5060 Laptop, 7705 MiB VRAM, Llama 3.1 8B Q4_K_M, `-ngl 999`) across a range of `-c` context sizes, with and without `-nkvo`:
+
+    | Context (`-c`) | Without `-nkvo` (t/s) | With `-nkvo` (t/s) |
+    |---|---|---|
+    | ~11,264 | 37.5 | 33.2 |
+    | 23,552 | 22.2 | 27.7 |
+    | 29,696 | 17.6 | 27.0 |
+    | 41,984 | 14.1 | 28.1 |
+    | 60,416 | 11.3 | 28.2 |
+    | 72,704 | 10.5 | 27.6 |
+
+    **Without `-nkvo`, throughput degrades continuously as context grows** (37.5 → 10.5 t/s, ~3.6x collapse across the range tested) — confirming the earlier observed CPU-speed slowdown is a *sliding scale* driven by increasing VRAM pressure from the growing KV cache, not a one-time threshold/fallback event. **With `-nkvo`, throughput stays essentially flat** (~27-33 t/s) regardless of context size, since the cache never competes with weights for VRAM — only a fairly constant PCIe-transfer cost is paid per token.
+
+    **Practical takeaway — there's a crossover point, so `-nkvo` is not universally better or worse:** at small context (~11K tokens in this test), *not* using `-nkvo` was faster (37.5 vs 33.2 t/s) — the PCIe tax outweighs any VRAM pressure when the cache is small. Somewhere between ~11K and ~24K tokens the lines cross, and past that point `-nkvo` wins by a growing margin (nearly 3x faster at 72,704: 27.6 vs 10.5 t/s). **Rule of thumb for this hardware: leave `-nkvo` off for short-context use, turn it on once expected context climbs into the tens of thousands of tokens** — the exact crossover point will vary by GPU/VRAM size and model, so treat ~15-20K tokens as a starting point to verify per-machine rather than a universal constant.
+  - **The real point of `-nkvo` is fitting, not raw speed on a model that already fits.** If a model already fits fully offloaded with its default-size KV cache and VRAM to spare, `-nkvo` just adds overhead with no benefit — it's a tool for the specific case where a model/context combination would otherwise fail to fit in VRAM, not a general performance toggle to reach for by default. (See correction above: at large context, this framing is incomplete — `-nkvo` can also rescue GPU compute speed itself, not just prevent an outright failure.)
+- **Failure mode differs from system RAM overflow:** system RAM overflow degrades via swap (slow but often keeps running — see swap entry above). VRAM overflow generally fails outright with an out-of-memory/allocation error at load time rather than silently spilling — `-ngl` is how the user explicitly defines the CPU/GPU split, rather than the driver deciding automatically.
+- **Practical approach:** start with a high `-ngl` value and step it down if the load fails with an OOM/allocation error, or use a frontend/tool that auto-calculates a safe value from detected VRAM. Verify empirically per-model via a benchmark sweep (same methodology as thread-count sweeps — see benchmarking practices) rather than assuming a fraction from parameter count alone, since actual layer count/size varies by model.
 
 ---
 
@@ -271,11 +306,22 @@ Common flags shared by both binaries (llama.cpp built on the standard `common` p
 | `--mmproj <path>` | Path to a multimodal projector file (see glossary entry above) | none |
 | `-t, --threads <N>` | CPU threads for generation | Number of "performance" cores the runtime detects, varies by platform |
 | `--threads-batch <N>` | CPU threads for prompt processing/batch phase specifically | Same as `-t` if unset |
-| `-ngl, --n-gpu-layers <N>` | Number of model layers to offload to GPU | `0` (all layers stay on CPU) — irrelevant on a CPU-only box like this one, but relevant if you ever add a GPU |
+| `-ngl, --n-gpu-layers <N>` | Number of model layers to offload to GPU | `0` (all layers stay on CPU) in builds with no GPU backend compiled in. **⚠️ Correction:** in builds with a GPU backend compiled in and a device detected (e.g. this project's CUDA-enabled laptop build), the effective default is NOT `0` — observed behavior shows `llama-cli`/`llama-server` auto-offloading as many layers as fit in available VRAM when `-ngl` is left unspecified, falling back to CPU/RAM for whatever doesn't fit (see laptop experiment log, Qwen3-14B test: no `-ngl` given, "most of the model" ended up in VRAM with the rest in RAM automatically). This is runtime auto-fitting logic, not a value read from the GGUF file itself — GGUF metadata does not store a recommended/preferred `-ngl` value. Always pass `-ngl` explicitly to be certain of the actual split, rather than relying on default behavior, since it clearly varies by build/backend. |
 | `--no-mmap` | Disable `mmap`, force full upfront read into RAM (see glossary) | mmap enabled (off) |
 | `--mlock` | Lock model pages in RAM, prevent them from being swapped out | disabled |
 | `-b, --batch-size <N>` | Logical batch size for prompt processing | `2048` |
 | `-ub, --ubatch-size <N>` | Physical/micro batch size (actual chunk size per forward pass) | `512` |
+
+### GPU-specific
+
+| Flag | Meaning | Default if unset |
+|---|---|---|
+| `-ngl, --n-gpu-layers <N>` | Number of model layers to offload to GPU. `0` = CPU/RAM only, a number ≥ total layer count (e.g. `999` as a safe "all layers" shorthand) = full GPU/VRAM offload, a value in between = hybrid split across VRAM and RAM | `0` (all layers stay on CPU) |
+| `-nkvo, --no-kv-offload` | Keep the KV cache on CPU RAM even when layers are offloaded to GPU — isolates "weights on GPU, cache on CPU" as a distinct test case | KV cache offloaded to GPU when layers are offloaded |
+| `-fa, --flash-attn` | Enable flash attention — typically a speed and VRAM-efficiency win on supported GPUs | disabled |
+| `-mg, --main-gpu <N>` | Which GPU index is "main" (only matters with multiple GPUs) | `0` |
+| `-sm, --split-mode <none\|layer\|row>` | How to split work across multiple GPUs | `layer` |
+| `-ts, --tensor-split <a,b,...>` | Ratio to split layers across multiple GPUs | none (even split) |
 
 ### Context & generation length
 
