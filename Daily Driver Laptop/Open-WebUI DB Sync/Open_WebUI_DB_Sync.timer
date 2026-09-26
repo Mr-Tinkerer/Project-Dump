@@ -1,0 +1,9 @@
+[Unit]
+Description='Automatically sync the Open-WebUI chat logs to a \"read only\" instance for remote usage.'
+
+[Timer]
+OnCalendar=hourly
+Persistent=true
+
+[Install]
+WantedBy=timers.target
