@@ -5,7 +5,7 @@ After=graphical-session.target
 [Service]
 Type=oneshot
 WorkingDirectory=/home/pengmania/Documents
-ExecStart=/usr/bin/rsync -avh --progress /home/pengmania/Documents/ /mnt/OMV/Documents 
+ExecStart=/usr/bin/rsync -avh --del --progress /home/pengmania/Documents/ /mnt/OMV/Documents 
 
 StandardOutput=journal
 StandardError=journal
