@@ -1,0 +1,11 @@
+[Unit]
+Description=Llama.cpp server for embedding LLMs
+
+[Service]
+WorkingDirectory=/opt/llama.cpp/build/bin
+ExecStart=llama-server --host 10.10.0.5 --port 9932 --no-ui -t 4 -n -1 -c 49152 --embedding --models-dir /home/ai/models/embeddings
+Restart=always
+RestartSec=1
+
+[Install]
+WantedBy=default.target
