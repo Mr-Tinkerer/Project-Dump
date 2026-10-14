@@ -1,0 +1,27 @@
+services:
+  docling:
+    # image: ghcr.io/docling-project/docling-serve-cpu:latest
+    build:
+        dockerfile: DoclingPatched
+    container_name: docling
+    restart: unless-stopped
+    environment:
+      - DOCLING_SERVE_ENABLE_UI=false
+      - OMP_NUM_THREADS=2
+    ports:
+      - "5001:5001"
+    mem_limit: 3g
+
+  lightrag:
+    image: ghcr.io/hkuds/lightrag:latest
+    container_name: lightrag
+    restart: unless-stopped
+    ports:
+      - "9621:9621"
+    env_file: .env
+    volumes:
+      - ./lightRAG/rag_storage:/app/data/rag_storage:Z
+      - ./lightRAG/inputs:/app/data/inputs:Z
+      - ./.env:/app/.env:Z
+    depends_on:
+      - docling

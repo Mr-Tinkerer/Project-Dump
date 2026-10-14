@@ -1,0 +1,8 @@
+FROM ghcr.io/docling-project/docling-serve-cpu:latest
+USER 0
+RUN f=/opt/app-root/lib64/python3.12/site-packages/docling/utils/layout_postprocessor.py && \
+    grep -q 'cluster.bbox.area() / page_area > 0.90' "$f" && \
+    sed -i 's|cluster.bbox.area() / page_area > 0.90|cluster.bbox.area() / page_area > 2.0|' "$f" && \
+    grep -q 'page_area > 2.0' "$f" && \
+    python -m py_compile "$f"
+USER 1001
