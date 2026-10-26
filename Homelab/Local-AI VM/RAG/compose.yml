@@ -1,6 +1,5 @@
 services:
   docling:
-    # image: ghcr.io/docling-project/docling-serve-cpu:latest
     build:
         dockerfile: DoclingPatched
     container_name: docling
@@ -11,7 +10,6 @@ services:
     ports:
       - "5001:5001"
     mem_limit: 3g
-
   lightrag:
     image: ghcr.io/hkuds/lightrag:latest
     container_name: lightrag
