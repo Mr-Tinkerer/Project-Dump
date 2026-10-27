@@ -1,0 +1,20 @@
+[Unit]
+Description=Powerful Local WebUI for LLMs
+After=searxng.service
+Requires=searxng.service
+
+[Container]
+Image=ghcr.io/open-webui/open-webui:main
+ContainerName=open-webui
+Volume=%h/Projects/LLMs/open-webui:/app/backend/data:Z
+Network=host
+#Environment=GLOBAL_LOG_LEVEL=debug
+
+[Service]
+Restart=always
+
+[Unit]
+PartOf=chat.target
+
+[Install]
+WantedBy=chat.target

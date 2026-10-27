@@ -1,0 +1,10 @@
+[Unit]
+Description=Llama.cpp router
+
+[Service]
+ExecStart=llama-server --host 127.0.0.1,10.10.0.11 --port 9931 --no-ui --sleep-idle-seconds 180 --models-max 2 --models-dir %h/Projects/LLMs/models --models-preset %h/Projects/LLMs/presets.ini
+Restart=always
+RestartSec=1
+
+[Install]
+WantedBy=default.target

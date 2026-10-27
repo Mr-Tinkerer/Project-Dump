@@ -1,0 +1,6 @@
+[Unit]
+Description=LLM Chat stack (Open Web_UI + SearXNG)
+Wants=open-webui.service searxng.service
+
+[Install]
+WantedBy=default.target
