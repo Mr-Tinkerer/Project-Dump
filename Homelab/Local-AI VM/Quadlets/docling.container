@@ -1,0 +1,22 @@
+[Unit]
+Description=Docling-serve (patched)
+After=network-online.target
+
+[Container]
+ContainerName=docling
+Image=docling.build
+Network=rag.network
+PublishPort=5001:5001
+Environment=DOCLING_SERVE_ENABLE_UI=false
+Environment=OMP_NUM_THREADS=2
+Memory=3g
+
+[Service]
+Restart=always
+TimeoutStartSec=900
+
+[Unit]
+PartOf=rag.target
+
+[Install]
+WantedBy=rag.target

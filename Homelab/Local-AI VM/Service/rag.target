@@ -1,0 +1,6 @@
+[Unit]
+Description=RAG stack (Docling + LightRAG)
+Wants=docling.service lightrag.service
+
+[Install]
+WantedBy=default.target

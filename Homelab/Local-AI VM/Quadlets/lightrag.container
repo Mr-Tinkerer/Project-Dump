@@ -1,0 +1,24 @@
+[Unit]
+Description=LightRAG server
+Requires=docling.service
+After=docling.service
+
+[Container]
+ContainerName=lightrag
+Image=ghcr.io/hkuds/lightrag:latest
+Network=rag.network
+PublishPort=9621:9621
+EnvironmentFile=/home/ai/rag/.env
+Volume=/home/ai/rag/lightRAG/rag_storage:/app/data/rag_storage:Z
+Volume=/home/ai/rag/lightRAG/inputs:/app/data/inputs:Z
+Volume=/home/ai/rag/.env:/app/.env:Z
+
+[Service]
+Restart=always
+TimeoutStartSec=900
+
+[Unit]
+PartOf=rag.target
+
+[Install]
+WantedBy=rag.target

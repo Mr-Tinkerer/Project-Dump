@@ -3,7 +3,7 @@ Description=Llama.cpp server for Embedding LLMs
 
 [Service]
 WorkingDirectory=/opt/llama.cpp/build/bin
-ExecStart=llama-server --host 10.10.0.5 --port 9932 --no-ui -t 4 -n -1 -np 1 -b 4096 -ub 4096 -c 8192 --sleep-idle-seconds 300 --models-max 1 --embedding --models-dir /home/ai/models/embeddings
+ExecStart=llama-server --host 10.10.0.5 --port 9932 --no-ui -t 4 -n -1 -np 1 -b 4096 -ub 4096 -c 8192 --models-max 1 --embedding --models-dir /home/ai/models/embeddings
 Restart=always
 RestartSec=1
 

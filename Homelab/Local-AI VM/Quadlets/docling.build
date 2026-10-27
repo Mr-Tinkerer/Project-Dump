@@ -1,0 +1,4 @@
+[Build]
+ImageTag=localhost/docling-serve-cpu-patched:1
+File=/home/ai/rag/docling-patched/Containerfile
+SetWorkingDirectory=/home/ai/rag/docling-patched
