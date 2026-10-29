@@ -4,7 +4,7 @@ Description=Stirling PDF
 [Container]
 ContainerName=stirling
 Network=stirling.network
-Image=docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest-fat
+Image=docker.stirlingpdf.com/stirlingtools/stirling-pdf
 PublishPort=8090:8080
 Volume=%h/stirling:/configs:Z
 # Volume=%h/stirling/logs:/logs:Z
