@@ -15,10 +15,6 @@ Volume=/home/ai/rag/.env:/app/.env:Z
 
 [Service]
 Restart=always
-TimeoutStartSec=900
-
-[Unit]
-PartOf=rag.target
 
 [Install]
-WantedBy=rag.target
+WantedBy=default.target

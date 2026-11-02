@@ -13,10 +13,6 @@ Memory=3g
 
 [Service]
 Restart=always
-TimeoutStartSec=900
-
-[Unit]
-PartOf=rag.target
 
 [Install]
-WantedBy=rag.target
+WantedBy=default.target
