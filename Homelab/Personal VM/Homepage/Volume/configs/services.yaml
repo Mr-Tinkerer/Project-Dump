@@ -58,7 +58,7 @@
           icon: /images/icons/fedora.svg
 
 
-- _:
+- 　:
   - Productivity:
     - Nextcloud:
         href: https://nextcloud.uhhhhh
@@ -86,11 +86,11 @@
         icon: /images/icons/homepage.svg
 
 - Arrrrgh:
-  - Prowlarr:
-      href: https://prowlarr.uhhhhh
-      description: Indexer manager for *arr stack
+  - Jellyfin:
+      href: https://jelly.uhhhhh
+      description: Local Media Player
       ping: 10.10.0.4
-      icon: /images/icons/prowlarr.svg
+      icon: /images/icons/jellyfin.svg
   - Sonarr:
       href: https://sonarr.uhhhhh
       description: TV Shows Downloader
@@ -101,6 +101,11 @@
       description: Movies Downloader
       ping: 10.10.0.4
       icon: /images/icons/radarr.svg
+  - Prowlarr:
+      href: https://prowlarr.uhhhhh
+      description: Indexer manager for *arr stack
+      ping: 10.10.0.4
+      icon: /images/icons/prowlarr.svg
   - Bazarr:
       href: https://bazarr.uhhhhh
       description: Subtitles Downloader
