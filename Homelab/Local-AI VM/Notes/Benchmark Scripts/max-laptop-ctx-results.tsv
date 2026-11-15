@@ -1,0 +1,10 @@
+model	configured_ctx	max_ctx_in_vram	recommended	trials
+gemma-3-1b	16384	262144	262144	10
+Qwen3.5-4B	32768	180224	180224	18
+Qwen3.5-4B-thinking	131072	180224	180224	18
+Qwen3.5-9B	32768	74752	74752	16
+Qwen3.5-9B-thinking	65536	74752	74752	16
+Qwen3.5-9B-Uncensored	32768	77312	77312	16
+Qwen3.5-9B-Uncensored-thinking	65536	77312	77312	16
+Gemma-4-E4B	65536	185344	185344	18
+Gemma-4-E4B-Uncensored	65536	185856	185856	18
