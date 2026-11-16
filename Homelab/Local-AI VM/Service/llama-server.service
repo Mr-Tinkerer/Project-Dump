@@ -3,7 +3,7 @@ Description=Llama.cpp router
 
 [Service]
 WorkingDirectory=/opt/llama.cpp/build/bin
-ExecStart=llama-server --host 127.0.0.1,10.10.0.5 --port 9931 --no-ui --sleep-idle-seconds 300 --models-max 2 --models-preset /home/ai/presets.ini --api-key ""
+ExecStart=llama-server --host 127.0.0.1 --port 9931 --no-ui --sleep-idle-seconds 300 --models-max 1 --models-preset /home/ai/presets.ini
 Restart=always
 RestartSec=1
 
