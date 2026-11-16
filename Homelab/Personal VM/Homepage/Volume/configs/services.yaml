@@ -128,8 +128,8 @@
       description: Local Web Search Engine
       ping: 10.10.0.5
       icon: /images/icons/searxng.svg
-  - LightRAG:
-      href: https://rag.uhhhhh
-      description: Converting documents into a LLM friendly format
-      ping: 10.10.0.5
-      icon: /images/icons/LightRAG.svg
+  # - LightRAG:
+  #     href: https://rag.uhhhhh
+  #     description: Converting documents into a LLM friendly format
+  #     ping: 10.10.0.5
+  #     icon: /images/icons/LightRAG.svg
